@@ -23,7 +23,7 @@
 .nav-right>img{
     width:2rem;
 }
-.nav-left>img{
+.nav-left>a>img{
     width:10rem;
 }
 .navigation-container{
