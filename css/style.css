@@ -233,7 +233,7 @@ hr{
     color:white;
 }
 .testimonials-section{
-/* background-color: red; */
+background-color:white;
 display: flex;
 justify-content: center;
 align-items: center;
@@ -274,7 +274,7 @@ color:rgb(137, 133, 133);
    
 }
 .sponser-section{
-    /* background-color: red; */
+    background-color:white;
     display: flex;
     justify-content: center;
     align-items: center;
